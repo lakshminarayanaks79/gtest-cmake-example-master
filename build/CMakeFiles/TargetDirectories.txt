@@ -1,4 +1,0 @@
-C:/Users/kadechur.l.FUTRONIC/Desktop/gtest-cmake-example-master/gtest-cmake-example-master/build/CMakeFiles/project1_lib.dir
-C:/Users/kadechur.l.FUTRONIC/Desktop/gtest-cmake-example-master/gtest-cmake-example-master/build/CMakeFiles/project1.dir
-C:/Users/kadechur.l.FUTRONIC/Desktop/gtest-cmake-example-master/gtest-cmake-example-master/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kadechur.l.FUTRONIC/Desktop/gtest-cmake-example-master/gtest-cmake-example-master/build/CMakeFiles/ZERO_CHECK.dir
